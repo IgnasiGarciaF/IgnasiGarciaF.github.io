@@ -1,0 +1,4 @@
+/*Home custom style for change background image*/
+div#home_bg{
+  background-image: url("../img/home_bg.jpg");
+}
